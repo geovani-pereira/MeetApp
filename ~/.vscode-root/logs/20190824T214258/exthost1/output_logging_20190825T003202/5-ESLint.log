@@ -1,6 +1,0 @@
-[Info  - 00:32:07] ESLint server stopped.
-[Info  - 00:32:08] ESLint server running in node v10.2.0
-[Info  - 00:32:08] ESLint server is running.
-[Info  - 00:32:10] ESLint library loaded from: /home/geovani/Projetos/bootcamp2019/desafio02/node_modules/eslint/lib/api.js
-[Error - 00:44:36] .eslintrc.js: 	Configuration for rule "no-unused-vars" is invalid: 	Severity should be one of the following: 0 = off, 1 = warn, 2 = error (you passed '"erro"'). 
-[Info  - 01:27:37] ESLint server stopped.
