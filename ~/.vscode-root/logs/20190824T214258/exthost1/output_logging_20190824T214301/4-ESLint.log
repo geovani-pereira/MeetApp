@@ -1,0 +1,37 @@
+[Info  - 21:44:39] ESLint server stopped.
+[Info  - 21:44:39] ESLint server running in node v10.2.0
+[Info  - 21:44:39] ESLint server is running.
+[Info  - 21:44:41] 
+Failed to load the ESLint library for the document /home/geovani/Projetos/bootcamp2019/desafio02/src/app.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder desafio02
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder desafio02 by executing the 'Disable ESLint' command.
+[Info  - 21:44:44] 
+Failed to load the ESLint library for the document /home/geovani/Projetos/bootcamp2019/desafio02/src/server.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder desafio02
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder desafio02 by executing the 'Disable ESLint' command.
+[Info  - 21:44:49] 
+Failed to load the ESLint library for the document /home/geovani/Projetos/bootcamp2019/desafio02/src/routes.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder desafio02
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder desafio02 by executing the 'Disable ESLint' command.
+[Info  - 21:47:21] 
+Failed to load the ESLint library for the document /home/geovani/Projetos/bootcamp2019/desafio02/package.json
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder desafio02
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder desafio02 by executing the 'Disable ESLint' command.
+[Info  - 00:30:40] ESLint library loaded from: /home/geovani/Projetos/bootcamp2019/desafio02/node_modules/eslint/lib/api.js
+[Info  - 00:31:59] ESLint server stopped.

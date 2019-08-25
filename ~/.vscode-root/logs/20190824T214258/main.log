@@ -1,0 +1,6 @@
+[2019-08-24 21:42:58.851] [main] [info] update#setState idle
+[2019-08-24 21:42:59.141] [main] [info] [storage] migrating global storage from localStorage into SQLite
+[2019-08-24 21:42:59.142] [main] [info] [storage] migrated global storage
+[2019-08-24 21:43:28.854] [main] [info] update#setState checking for updates
+[2019-08-24 21:43:29.267] [main] [info] update#setState available for download
+[2019-08-25 01:27:30.449] [main] [error] [VS Code]: detected unresponsive
