@@ -403,3 +403,5 @@ TypeError: Cannot read property 'emitNode' of undefined
 	at Pipe.onread (net.js:636:20)
 [2019-08-25 03:37:54.347] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"activationEvent":"onCommand:code-runner.run"}
 [2019-08-25 03:37:54.347] [exthost] [info] ExtensionService#loadCommonJSModule /home/geovani/.vscode/extensions/formulahendry.code-runner-0.9.10/out/src/extension
+[2019-08-25 03:39:21.283] [exthost] [info] ExtensionService#_doActivateExtension searKing.preview-vscode {"startup":false,"activationEvent":"onCommand:extension.preview"}
+[2019-08-25 03:39:21.283] [exthost] [info] ExtensionService#loadCommonJSModule /home/geovani/.vscode/extensions/searking.preview-vscode-2.0.3/out/src/extension
